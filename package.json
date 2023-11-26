@@ -1,0 +1,14 @@
+{
+  "name": "validemail",
+  "version": "1.0.0",
+  "description": "Checks if the given email is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chris Baird",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
